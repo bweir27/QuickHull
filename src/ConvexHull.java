@@ -16,7 +16,6 @@ public class ConvexHull {
     public static final int NUM_POINTS = 50;
 
     public static void main(String[] args) {
-        System.out.println("This Class is a proof-of correctness implementation for QuickHull, see Question3b for running time analysis.");
 
         //set up StdDraw
         StdDraw.setCanvasSize(CANVAS_SIZE,CANVAS_SIZE);
